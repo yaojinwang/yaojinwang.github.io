@@ -1,3 +1,3 @@
 # yaojinwang.github.io
 # hexo blog 
-#yaojinwang学习专用
+# yaojinwang学习专用
